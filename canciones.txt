@@ -8,3 +8,5 @@ solo debe ser un texto de prueba
 
 Ahora vamos a poner al artista de Coldplay y la cancion 
 Club Mochi que acabo de poner y esta pegadiza.
+
+Bloom desde Github
